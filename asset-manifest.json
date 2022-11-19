@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.c92d85f4.css",
+    "main.js": "/portfolio-app/static/js/main.065d96c5.js",
+    "static/js/787.a2cb61a6.chunk.js": "/portfolio-app/static/js/787.a2cb61a6.chunk.js",
+    "static/media/logo-s.png": "/portfolio-app/static/media/logo-s.850d9417f26a5e3b4a30.png",
+    "static/media/hel.neu.ttf": "/portfolio-app/static/media/hel.neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/portfolio-app/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/portfolio-app/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/portfolio-app/index.html",
+    "main.c92d85f4.css.map": "/portfolio-app/static/css/main.c92d85f4.css.map",
+    "main.065d96c5.js.map": "/portfolio-app/static/js/main.065d96c5.js.map",
+    "787.a2cb61a6.chunk.js.map": "/portfolio-app/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c92d85f4.css",
+    "static/js/main.065d96c5.js"
+  ]
+}
