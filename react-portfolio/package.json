@@ -1,4 +1,7 @@
-{
+
+
+
+{"homepage" : "https://vvillb.github.io/portfolio-app",
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -14,9 +17,11 @@
     "gsap-trial": "^3.11.3",
     "loaders.css": "^0.1.2",
     "react": "^18.2.0",
+    "react-countdown": "^2.3.4",
     "react-dom": "^18.2.0",
     "react-leaflet": "^4.1.0",
     "react-loaders": "^3.0.1",
+    "react-responsive-carousel": "^3.2.23",
     "react-router-dom": "^6.4.3",
     "react-scripts": "5.0.1",
     "sass": "^1.56.1",
@@ -24,6 +29,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -47,6 +54,7 @@
     ]
   },
   "devDependencies": {
-    "font-face": "^2.3.4"
+    "font-face": "^2.3.4",
+    "gh-pages": "^4.0.0"
   }
 }
